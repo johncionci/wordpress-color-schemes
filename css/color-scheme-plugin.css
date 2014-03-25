@@ -1,0 +1,36 @@
+/*
+ * @file Color Scheme Plugin CSS
+ * --------------------------------------------------------------------------------- */
+
+/* --- For each Label as parent of an input --------------------------------------------------------------- */
+#customize-control-color_scheme_control .customize-control-title {
+	display: block;
+	margin-bottom: 1em
+}
+
+#customize-control-color_scheme_control label {
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	display: block;
+	line-height: normal;
+	margin-bottom: 1em;
+	padding-bottom: 2em;
+}
+
+/* --- Individual Color Scheme Controls --------------------------------------------------------------- */
+
+/* Dark */
+#customize-control-color_scheme_control label.dark {
+	background-image: url(../images/color-scheme-dark.png);
+}
+
+/* Light */
+#customize-control-color_scheme_control label.light {
+	background-image: url(../images/color-scheme-light.png);
+}
+
+/* Blue */
+#customize-control-color_scheme_control label.blue {
+	background-image: url(../images/color-scheme-blue.png);
+}
