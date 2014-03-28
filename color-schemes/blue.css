@@ -1,0 +1,23 @@
+/*
+ * @file Color Scheme Option CSS
+ *
+ * #006585
+ * #3396b4
+ * #3cadce
+ * #69b6cf
+ *
+ * --------------------------------------------------------------------------------- */
+
+body,
+body.custom-background {
+	background-color: #006585;
+	color: #69b6cf;
+}
+
+.entry-title a {
+	color: #3cadce;
+}
+
+.entry-meta a {
+	color: #3396b4;
+}

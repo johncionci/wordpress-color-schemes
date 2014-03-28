@@ -3,7 +3,7 @@
  * Plugin Name: WordPress Color Scheme
  * Plugin URI: https://github.com/johncionci/
  * Description: Provides an easy way for users to update an entire sites color scheme.
- * Version: 0.1
+ * Version: 0.2
  * Author: John Cionci
  * Author URI: https://github.com/johncionci/
  * License: GPLv2 or later

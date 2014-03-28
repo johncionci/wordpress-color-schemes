@@ -1,4 +1,8 @@
 == Changelog ==
 
+= 0.2 =
+* fix broken paths to color schemes css files
+* add sample stylesheets
+
 = 0.1 =
 * Initial plugin concept code
